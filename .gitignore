@@ -1,0 +1,10 @@
+**.DS_Store
+**.ipynb_checkpoints
+**.ipython
+**.jupyter
+**.local
+**.cache/
+**.config/
+**.vscode
+**.pytest_cache
+src/__pycache__/data_cleaning.cpython-311.pyc
